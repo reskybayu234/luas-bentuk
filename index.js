@@ -1,0 +1,1 @@
+const fungsiLuasPersegi = require('luasPersegi.js');
