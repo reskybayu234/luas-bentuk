@@ -1,25 +1,18 @@
 {
   "name": "luas-bentuk",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "tugas",
-=======
-  "description": "",
->>>>>>> 4ccf342f48f351ffa840089822defbf19ca7324a
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reskybayu234/luas-bentuk.git"
   },
-<<<<<<< HEAD
   "author": "grup 3",
-=======
-  "author": "",
->>>>>>> 4ccf342f48f351ffa840089822defbf19ca7324a
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reskybayu234/luas-bentuk/issues"
