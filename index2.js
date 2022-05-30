@@ -1,11 +1,6 @@
-class Perhitungan {
-  luasJajarGenjang(alas, tinggi) {
-    return alas * tinggi;
-  }
-  luasLingkaran(r) {
-    const phi = 3.14;
-    return (phi * r) ** 2;
-  }
-}
+import { Perhitungan } from "./package.js";
 
-export { Perhitungan };
+// instansiasi atau membuat objek
+const obj = new Perhitungan();
+
+console.log(obj.luasJajarGenjang(2, 100));
